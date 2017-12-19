@@ -1,5 +1,5 @@
 """
-CS241 Checkpoint 01A - Hello World
+CS241 Checkpoint 01A
 Written by Chad Macbeth
 """
 
