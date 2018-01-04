@@ -1,7 +1,11 @@
 """
+CS 241 Checkpoint 5B
+Written by Chad Macbeth
+"""
+
+"""
 File: check05b.py
 Author: Br. Burton
-Updated by: Chad Macbeth
 Use this file to practice debugging in PyCharm.
 """
 
